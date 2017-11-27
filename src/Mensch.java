@@ -78,6 +78,7 @@ public class Mensch extends Aerger {
         return false;
     }
 
+
     public static void OnMove() {
         try {
             int item = ((int) combo.getSelectedItem());
